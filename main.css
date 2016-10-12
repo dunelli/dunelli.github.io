@@ -1,0 +1,23 @@
+body {
+      background-image: url("http://www.rebelsport.co.nz/productimages/magnify/1/29856_87584_52269.jpg");
+);
+}
+
+h1 {
+    color: mediumpurple;
+    text-align: center;
+}
+
+p {
+    color:yellow
+    font-family: verdana;
+    font-size: 20px;
+}
+
+
+
+ol {
+    color:yellow
+    font-family: verdana;
+    font-size: 20px;
+}
