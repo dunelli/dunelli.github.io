@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- Begin Inspectlet Embed Code -->
+<script type="text/javascript" id="inspectletjs">
+window.__insp = window.__insp || [];
+__insp.push(['wid', 921222515]);
+(function() {
+function ldinsp(){if(typeof window.__inspld != "undefined") return; window.__inspld = 1; var insp = document.createElement('script'); insp.type = 'text/javascript'; insp.async = true; insp.id = "inspsync"; insp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://cdn.inspectlet.com/inspectlet.js'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(insp, x); };
+setTimeout(ldinsp, 500); document.readyState != "complete" ? (window.attachEvent ? window.attachEvent('onload', ldinsp) : window.addEventListener('load', ldinsp, false)) : ldinsp();
+})();
+</script>
+<!-- End Inspectlet Embed Code -->
+<title>Rugby School - Home</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+<link rel="stylesheet" type="text/css" href="/rugby-Live/includes/themes/rugbySchool/css/editor.css">
+<!-- Fonts.com -->
+<link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/3f8628c8-f50e-4199-ac78-b876f5f5cf1f.css"/>
+<!-- TypeKit Font -->
+<script src="//use.typekit.net/vco8opb.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+<!-- Font Awesome -->
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<link rel="shortcut icon" href="/rugby-Live/includes/themes/rugbySchool/img/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/rugby-Live/includes/themes/rugbySchool/img/favicon.ico" type="image/x-icon">
+<script src='https://www.google.com/recaptcha/api.js'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?key=AIzaSyADfzF-6o-MCNSjTQeUZI7V3N-VU-9FAzA'></script>
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="/rugby-Live/includes/themes/rugbySchool/compiled/js/html5-shim.js"></script>
+<script src="/rugby-Live/includes/themes/rugbySchool/compiled/js/respond.js"></script>
+<![endif]-->
+<script type="text/javascript">
+<!--
+!window.jQuery && document.write(unescape('%3Cscript type="text/javascript" src="/rugby-Live/jquery/jquery.js"%3E%3C/script%3E'))
+//-->
+</script>
+<script type="text/javascript" src="/rugby-Live/js/global.min.js"></script>
+<script type="text/javascript">
+initMura({
+loginURL:"?display=login",
+siteid:"rugby-Live",
+contentid:"00000000000000000000000000000000001",
+contenthistid:"DE1F15EF-5E32-43D7-91ADC7B8E856C7FF",
+parentid:"00000000000000000000000000000000END",
+context:"",
+nocache:0,
+assetpath:"/rugby-Live",
+requirementspath:"/requirements",
+themepath:"/rugby-Live/includes/themes/rugbySchool",
+rb:"en",
+reCAPTCHALanguage:"en",
+preloaderMarkup: "",
+mobileformat: "false",
+windowdocumentdomain: "",
+layoutmanager:"false",
+type:"Page",
+subtype:"Default",
+dtExample:"10/11/2018",
+dtCh:"/",
+dtFormat:[1,0,2],
+dtLocale:"en-GB"
+});
+</script></head>
+<body class="Home" id="msoNewDesignOverrides">
+<script type="text/javascript">
+var youtubeVideoId = "";
+</script>
+<div id="currentURL">https://www.rugbyschool.co.uk/index.cfm/rugby-school-live/assets/Image/Iconic-chapel(1).jpg/</div>
+<header class="msoHeaderContainer">
+<div class="msoMobileHomeImage visible-xs"></div>
+<a href="/" class="msoLogo"></a>
+<nav id="homeNav" class="msoNav" role="navigation">
+<div class="msoLeftSideNav">
+<div class="navbar-header clearfix">
+<div class="navbar-toggle msoToggleNav">
+<div class="msoMenuToggleLine"></div>
+</div>
+<span class="msoMobileMenuText msoToggleNav">MENU</span>
+</div><!-- navbar-header -->
+<ul class="st-nav-collapse collapse ">
+<li class="collapse msoActiveNav">
+<a href="/">
+<span class="msoMenuText">Home</span>
+<span class="msoHoverUnderline"></span>
+</a>
+</li>
+<li id="FB1561D2-F66B-4824-BC6345328DA81F22" class="msoMenu collapse">
+<a href="/about/" target="_self">
+<span class="msoMenuText">About</span>
+<span class="msoHoverUnderline"></span>
+</a>
+</li>
+<li id="1768130B-058A-4BDA-9DE386D0FCD111B9" class="msoMenu collapse">
+<a href="/academic/" target="_self">
+<span class="msoMenuText">Academic</span>
+<span class="msoHoverUnderline"></span>
+</a>
+</li>
+<li id="E402AD59-77F8-4971-934C200B120CD1F5" class="msoMenu collapse">
+<a href="/news-dates/" target="_self">
+<span class="msoMenuText">News & Dates</span>
+<span class="msoHoverUnderline"></span>
+</a>
+</li>
+<li id="1C4EA9B5-B5AB-4F28-9022602BAF7A4B39" class="msoMenu collapse">
+<a href="/co-curricular/" target="_self">
+<span class="msoMenuText">Co-Curricular</span>
+<span class="msoHoverUnderline"></span>
+</a>
+</li>
+<li id="B6627154-51DA-4298-96F0C2AFAF605E8E" class="msoMenu collapse">
+<a href="/school-life/" target="_self">
+<span class="msoMenuText">School Life</span>
+<span class="msoHoverUnderline"></span>
+</a>
+</li>
+<li id="56A63BFE-5774-4E7C-B41F19B3E927A747" class="msoMenu collapse">
+<a href="/admissions/" target="_self">
+<span class="msoMenuText">Admissions</span>
+<span class="msoHoverUnderline"></span>
+</a>
+</li>
+<li id="D744D5EF-C3C6-4CA8-8D08BFA103501C8D" class="msoMenu collapse">
+<a href="/rugby-thailand/" target="_self">
+<span class="msoMenuText">Rugby Thailand</span>
+<span class="msoHoverUnderline"></span>
+</a>
+</li>
+<li id="3669142C-B4A9-4A55-AD0DC9BE12E36338" class="msoMenu collapse">
+<a href="/contact-us/" target="_self">
+<span class="msoMenuText">Contact Us</span>
+<span class="msoHoverUnderline"></span>
+</a>
+</li>
+<li id="04A12FCA-966B-49BB-94E14EF457F7D69E" class="msoMenu collapse">
+<a href="/rsc-shakespeare-symposium/" target="_self">
+<span class="msoMenuText">RSC Shakespeare Symposium</span>
+<span class="msoHoverUnderline"></span>
+</a>
+</li>
+</ul>
+</div>
+<div class="msoRightSideNav">
+<span class="msoDivider hidden-xs"></span>
+<a href="/search-results?display=search" class="msoSearch"><i class="fa fa-search"></i></a>
+</div>
+</nav>
+</header>
+<div class="st-maincontainer">
+<ul id="fp-nav" class="hidden-xs">
+<li data-menuanchor="slide1">
+<a href="#slide1" class="clearfix">
+<span class="msoRightNavLine"></span>
+<span class="msoRightNavText">Welcome</span>
+</a>
+</li>
+<li data-menuanchor="slide2">
+<a href="#slide2" class="clearfix">
+<span class="msoRightNavLine"></span>
+<span class="msoRightNavText">History</span>
+</a>
+</li>
+<li data-menuanchor="slide3">
+<a href="#slide3" class="clearfix">
+<span class="msoRightNavLine"></span>
+<span class="msoRightNavText">Education</span>
+</a>
+</li>
+<li data-menuanchor="slide4">
+<a href="#slide4" class="clearfix">
+<span class="msoRightNavLine"></span>
+<span class="msoRightNavText">School life</span>
+</a>
+</li>
+<li data-menuanchor="slide5">
+<a href="#slide5" class="clearfix">
+<span class="msoRightNavLine"></span>
+<span class="msoRightNavText">Open day</span>
+</a>
+</li>
+</ul>
+<div id="fullpage">
+<div class="section msoHomeSlide slide-1 hidden-xs" style="background-image: url('/rugby-Live/cache/file/E8CC3208-CEE6-494D-B4292ABA592AB871_fullscreen.jpg');">
+<div class="msoInnerSlide">
+<h1><p>Welcome from the Head Master</p></h1>
+<a href="/about/welcome-from-the-head-master/" class="msoSlideCallToAction msoAnimateButtonYellow">Read more</a>
+</div>
+</div>
+<div class="section msoHomeSection msoHomeSlide slide-2 hidden-xs" style="background-image: url('/rugby-Live/cache/file/71C78104-D1C5-4C46-98DA2D4CD7063DBB_fullscreen.jpg');">
+<div class="msoInnerSlide">
+<h1><p>A History of Rugby School</p></h1>
+<a href="/about/history/" class="msoSlideCallToAction msoAnimateButtonYellow">Read more</a>
+</div>
+</div>
+<div class="section msoHomeSection msoHomeSlide slide-3 hidden-xs" style="background-image: url('/rugby-Live/cache/file/D77B698A-3D80-49AC-987BB736C9ED0E9B_fullscreen.jpg');">
+<div class="msoInnerSlide">
+<h1><p>Academic Life at Rugby</p></h1>
+<a href="/academic/" class="msoSlideCallToAction msoAnimateButtonYellow">Read more</a>
+</div>
+</div>
+<div class="section msoHomeSection msoHomeSlide slide-4 hidden-xs" style="background-image: url('/rugby-Live/cache/file/ACD287DC-FF82-456D-9E63DA51070BF9D3_fullscreen.jpg');">
+<div class="msoInnerSlide">
+<h1><p>#wholepersonwholepoint</p></h1>
+<a href="/school-life/" class="msoSlideCallToAction msoAnimateButtonYellow">Read more</a>
+</div>
+</div>
+<div class="section msoHomeSection msoHomeSlide slide-5 hidden-xs" style="background-image: url('/rugby-Live/cache/file/409A6495-3AA7-42EB-AEDA4983657B82BB_fullscreen.jpg');">
+<div class="msoInnerSlide">
+<h1><p>Open Mornings at Rugby School</p></h1>
+<a href="/admissions/open-days/" class="msoSlideCallToAction msoAnimateButtonYellow">Read more</a>
+</div>
+</div>
+<div class="section msoHomeSection slide-6">
+<div class="msoMiddleHomeSector">
+<div class="msoRugbyVideo">
+<div class="video">
+<video class="thevideo videoOnHover" loop="" preload="" poster="/rugby-Live/includes/themes/rugbySchool/img/home-poster.png">
+<source src="https://player.vimeo.com/external/187143250.hd.mp4?s=be824da221185de543c8e4205d7b028acd200faf&profile_id=174">
+Your browser does not support the video tag.
+</video>
+</div>
+</div>
+<div class="msoSchoolLife">
+<div class="msoBackground"></div>
+<div class="msoHoverContent">
+<div class="msoHomeTitle">Day House Open Mornings</div>
+<hr>
+<p><strong>Day House Open Mornings</strong></p>
+<p>8th October / 18th November</p>
+<a class="msoCallToAction msoAnimateButtonYellow" href="https://www.rugbyschool.co.uk/admissions/open-days/">Find out more</a>
+</div>
+</div>
+</div>
+<div class="msoMiddleHomeSector2">
+<div class="msoProspectusSection">
+<div class="msoHomeBackground"></div>
+<div>
+<p class="msoSmallText msoBlue">The</p>
+<p class="msoLargeText msoBlue">Whole</p>
+<p class="msoLargeText msoBlue">Person</p>
+<p class="msoSmallText msoWhite">The</p>
+<p class="msoLargeText msoWhite">Whole</p>
+<p class="msoLargeText msoWhite">Point</p>
+<a href="/admissions/read-the-prospectus" class="msoCallToAction msoAnimateButtonYellow">Request a prospectus</a>
+</div>
+</div>
+<div class="msoRightSideImage">
+<div class="msoHomeSlideContainer">
+<div id="homeMiddleSectorSlideshow">
+<div class="msoHolderImage" style="background-image: url('/rugby-Live/cache/file/BC177FE8-7EF3-44F9-AFADD718E9D9EE00_homesectorimage.jpg');"></div>
+<div class="msoHolderImage" style="background-image: url('/rugby-Live/cache/file/36BAD8FB-21AB-46AC-BDB3FB9835533A8A_homesectorimage.jpg');"></div>
+<div class="msoHolderImage" style="background-image: url('/rugby-Live/cache/file/7FD14FDB-AA95-40A1-AC0A690FC923EC8C_homesectorimage.jpg');"></div>
+<div class="msoHolderImage" style="background-image: url('/rugby-Live/cache/file/59AA5AA5-6E18-428E-B1F786DAB94A3461_homesectorimage.jpg');"></div>
+<div class="msoHolderImage" style="background-image: url('/rugby-Live/cache/file/0B6F84E6-93F7-4008-A37E741ED5368831_homesectorimage.jpg');"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="msoMiddleHomeSector3">
+<div class="msoLeftSideImage">
+<div class="msoNewsContainer">
+<div class="msoHolderImage"></div>
+<a href="/news-dates/latest-news/" class="msoCallToAction msoAnimateButtonYellow">RugbyNews</a>
+</div>
+</div>
+<div class="msoTwitterSection">
+<i class="fa fa-twitter"></i>
+<p class="msoTweet">It is certainly #autumn now #wholepersonwholepoint https://t.co/jclTvxoaQp</p>
+<p class="msoTweetTime">10 hours ago</p>
+<div class="msoTweetOptions">
+<a target="_blank" href="https://twitter.com/RugbySchool1567/status/793444628066340864"><i class="fa fa-retweet"></i></a>
+<a target="_blank" href="https://twitter.com/RugbySchool1567/status/793444628066340864"><i class="fa fa-reply"></i></a>
+<a target="_blank" href="https://twitter.com/RugbySchool1567/status/793444628066340864"><i class="fa fa-heart"></i></a>
+</div>
+</div>
+</div>
+<div class="msoBottomHomeSector">
+<div class="msoSchoolSelector">
+<div class="msoSchoolInfoHolder">
+<div id="arnold-foundation" class="msoSchoolDescription msoSchoolTextActive">
+<span class="msoHomeTitle">Arnold Foundation</span>
+<hr>
+<p><strong>Attending Rugby School can be a life-changing experience</strong><br>Through the Arnold Foundation we are able to offer this opportunity to motivated young people from some of this country's most deprived communities who will benefit from a boarding education.</p>
+</div>
+<div id="rugbeian-society" class="msoSchoolDescription">
+<span class="msoHomeTitle">Rugbeian Society</span>
+<hr>
+<p>The Rugbeian Society is here to support and provide interesting and exciting activities for Rugbeians. We organise a wide range of events which include House Dinners, Business Forums, Theatre trips and sporting activities. On the website you can find out about these and access news covering the Society's activities, both past events, most of which have supporting photos, and future events which we would be delighted if you can attend.</p>
+</div>
+<div id="rugbeian-online" class="msoSchoolDescription">
+<span class="msoHomeTitle">Rugbeians Online</span>
+<hr>
+<p>With regular gatherings organised by the Development Office and the Rugbeian Society, the Rugbeian community is vibrant and active. Social, business networking and fundraising events all contribute to an important programme. Many events are recorded on this site.</p>
+</div>
+<div id="enterprises" class="msoSchoolDescription">
+<span class="msoHomeTitle">Rugby School Enterprises</span>
+<hr>
+<p>Rugby School can offer an impressive range of venues which provide an unbeatable setting for private celebrations, corporate events and conferences.</p>
+</div>
+<div id="thailand" class="msoSchoolDescription">
+<span class="msoHomeTitle">Rugby Thailand</span>
+<hr>
+<p>Rugby School Thailand will welcome prep and pre-prep day pupils on a 74-acre site outside Bangkok with a senior school and boarding facilities set to open the following year.</p>
+</div>
+<div id="rugby-450th" class="msoSchoolDescription">
+<span class="msoHomeTitle">Rugby 450th</span>
+<hr>
+<p>2017 will be Rugby School’s 450th Anniversary year. To celebrate the founding of the School in 1567 and 450 years of education excellence, we have created an exciting programme of events and activities featured across these pages.</p>
+</div>
+</div>
+<div class="msoSchoolHolder">
+<a href="/arnold-foundation/home/" data-school="arnold-foundation" class="msoCallToAction msoSchoolActive">Arnold Foundation</a>
+<a href="/rugbeian-society/home/" data-school="rugbeian-society" class="msoCallToAction">Rugbeian Society</a>
+<a href="/rugbeians-online/home/" data-school="rugbeian-online" class="msoCallToAction">Rugbeians Online</a>
+<a href="/commercial/home/" data-school="enterprises" class="msoCallToAction">Enterprises</a>
+<a href="http://www.rugbyschoolthailand.com/" data-school="thailand" class="msoCallToAction">Rugby Thailand</a>
+<a href="/450th" data-school="rugby-450th" class="msoCallToAction">Rugby 450th</a>
+</div>
+</div>
+</div>
+<footer>
+<div class="msoFooterContainer">
+<div class="msoFooterLeft">
+<p class="msoCopyright"><a class="msoFirstLink" href="/press-media/">Press &amp; Media</a><a href="/contact-us/address-telephone-email/">Contact us</a><a href="/sitemap">Sitemap</a>
+<p><a class="msoFirstLink" href="https://www.rugbypost.online/login" target="_blank">Parent Portal</a> / <a href="http://www.rugbyschoolsports.co.uk/" target="_blank">Sports Portal</a>
+<p>&copy; Rugby School 2016 / <span class="msoBreaker"></span>Site design &amp; build by <a class="msoFirstLink" href="http://www.mso.net" target="_blank">mso</a> / Charity Registration Number 528752</p>
+<p><a class="msoFirstLink" href="/terms-conditions">Terms &amp; Conditions</a> / <a href="https://remote.rugbyschool.net/__extraweb__realmform?resource=%2Fworkplace%2Faccess%2Fhome&alias=workplace&r0=144&r1=145" target="_blank">Secure access</a> / <a href="https://outlook.office365.com/owa/?realm=rugbyschool.net#path=/mail" target="_blank">School email</a></p>
+</div>
+<div class="msoFooterRight">
+<div class="msoSocialLinkWrapper">
+<div>
+<a href="https://www.facebook.com/RugbySchool1567" target="_blank" class="msoSocialIcon">
+<i class="fa fa-facebook"></i>
+</a>
+<a href="https://twitter.com/RugbySchool1567" target="_blank" class="msoSocialIcon">
+<i class="fa fa-twitter"></i>
+</a>
+<a href="https://instagram.com/rugbyschool1567/" target="_blank" class="msoSocialIcon">
+<i class="fa fa-instagram"></i>
+</a>
+<a href="https://www.youtube.com/channel/UCASXnf2mDsu9iB8SPauKGzw" target="_blank" class="msoSocialIcon">
+<i class="fa fa-youtube"></i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</footer>
+</div>
+</div>
+</div><!-- .st-maincontainer -->
+<script type="text/javascript" src="/rugby-Live/includes/themes/rugbySchool/compiled/js/site.min.js?20160205"></script>
+</body>
+</html>
